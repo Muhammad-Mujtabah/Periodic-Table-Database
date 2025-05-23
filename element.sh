@@ -15,7 +15,3 @@ else
         done
     fi
 fi
-#complete
-#element file
-
-
